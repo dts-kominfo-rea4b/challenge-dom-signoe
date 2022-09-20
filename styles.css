@@ -1,0 +1,38 @@
+body {
+    font-family: "Gill Sans Extrabold", sans-serif;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#app {
+    background-color: whitesmoke;
+    padding: 50px 75px;
+}
+
+h3 {
+    background-color: cadetblue;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+
+input[type=text] {
+    border-radius: 5px;
+    padding: 8px 16px;
+}
+
+input[type=submit] {        
+    background-color:darkseagreen;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    margin: 4px 2px;
+}
+
+ul {
+    text-align: justify;
+    list-style-type: square;
+}
