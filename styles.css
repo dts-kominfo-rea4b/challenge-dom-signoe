@@ -18,12 +18,12 @@ h3 {
     padding: 10px;
 }
 
-input[type=text] {
+input {
     border-radius: 5px;
     padding: 8px 16px;
 }
 
-input[type=submit] {        
+button {        
     background-color:darkseagreen;
     color: whitesmoke;
     border: none;
